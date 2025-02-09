@@ -1,6 +1,6 @@
 # Audio transcriber 
 
-1 - I am not sure what you value more, speed or quality. Since this is a startup my bet is on speed. So I delivered this a quickly as I could.
+1 - I am not sure what you value more, speed or quality. Since this is a startup my bet is on speed. So I delivered this as quickly as I could.
 
 2 - I have given a gradio UI as I personally hate cli based demo's. 
 
